@@ -17,6 +17,7 @@ public class TestForGit {
     public static void main(String[] args) {
         System.out.println("testforgit.TestForGit.main()");
         //TODO add a scanner too please...
+        //TODO Shi teni
     }
 
 }
